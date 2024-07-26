@@ -3,3 +3,6 @@
 *.int
 *.lk
 *.zip
+.DS_STORE
+node_modules/
+img/
